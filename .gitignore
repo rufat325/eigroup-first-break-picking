@@ -1,0 +1,38 @@
+# Data files and caches (too large for git, reproducible from scripts)
+seismic_data/
+cache/
+*.hdf5
+*.hdf
+*.xz
+*.npz
+
+# Models are large; include only if explicitly desired
+# cache/*.keras
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated outputs (the script will regenerate)
+figures/*.png
+!figures/.gitkeep
