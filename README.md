@@ -187,7 +187,7 @@ is evaluated up-front so the improvement from fine-tuning is explicit.
 
 ## Attribution
 
-Datasets provided by Anthropic (eiGroup LLC technical task) and
+Datasets provided by (eiGroup LLC technical task) and
 originally compiled by researchers at Natural Resources Canada, Glencore,
 and Trevali Mining Corporation; see the Mila-IQIA HardPicks benchmark
 (GEOPHYSICS 2024) for the published version of these data.
